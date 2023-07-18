@@ -1,2 +1,1 @@
-My Profile
-blah blah blah...
+<h1 align="center">Hi 👋, I'm Kok Yong</h1>
