@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Rust, Go, Typescript**
 
-- 👨‍💻 All of my projects are available at [https://dev.decryptology.net/decryp7?tab=repositories](https://dev.decryptology.net/decryp7?tab=stars)
+- 👨‍💻 All of my projects are available at [here](https://dev.decryptology.net/decryp7?tab=stars)
 
 - 📫 How to reach me **decrypt@decryptology.net**
 
