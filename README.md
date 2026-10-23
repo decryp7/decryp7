@@ -30,8 +30,8 @@ they share one design system, one release practice and an optional private AI hu
 <p align="center">
   <a href="https://dev.decryptology.net/decryp7/paddock">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="images/paddock-ecosystem-dark.png?v=e610ef59">
-      <img src="images/paddock-ecosystem-light.png?v=8b4bdd37" alt="The Paddock family: Pacenotes, Debrief and Sighter above the Pitwall AI hub; Pitcrew, Dyno and Spotter below; all on one shared foundation" width="900">
+      <source media="(prefers-color-scheme: dark)" srcset="images/paddock-ecosystem-dark.png?v=a00f2d40">
+      <img src="images/paddock-ecosystem-light.png?v=651219f0" alt="The Paddock family: Pacenotes, Debrief and Sighter above the Pitwall AI hub; Pitcrew, Dyno and Spotter below; all on one shared foundation" width="900">
     </picture>
   </a>
 </p>
