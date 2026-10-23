@@ -29,19 +29,22 @@ they share one design system, one release practice and an optional private AI hu
 
 <p align="center">
   <a href="https://dev.decryptology.net/decryp7/paddock">
-    <img src="https://dev.decryptology.net/decryp7/paddock/raw/branch/main/docs/images/paddock-ecosystem.svg" alt="The Paddock family: Pacenotes, Debrief and Sighter above the Pitwall AI hub; Pitcrew, Dyno and Spotter below; all on one shared foundation" width="900">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="images/paddock-ecosystem-dark.png">
+      <img src="images/paddock-ecosystem-light.png" alt="The Paddock family: Pacenotes, Debrief and Sighter above the Pitwall AI hub; Pitcrew, Dyno and Spotter below; all on one shared foundation" width="900">
+    </picture>
   </a>
 </p>
 
 | | App | For | Status |
 |:-:|---|---|---|
-| <img src="https://dev.decryptology.net/decryp7/paddock/raw/branch/main/icons/debrief/debrief-macos.svg" width="36"> | **[Debrief](https://dev.decryptology.net/decryp7/debrief)** | An IDE for analysing logs and diagnostic files: timelines, queries, anomalies, incident reports. | Release in progress |
-| <img src="https://dev.decryptology.net/decryp7/paddock/raw/branch/main/icons/pitcrew/pitcrew-macos.svg" width="36"> | **[Pitcrew](https://dev.decryptology.net/decryp7/pitcrew)** | Keeps self-hosted CI runners alive, updated and clean. | **v1.0 released** |
-| <img src="https://dev.decryptology.net/decryp7/paddock/raw/branch/main/icons/pitwall/pitwall-macos.svg" width="36"> | **[Pitwall](https://dev.decryptology.net/decryp7/pitwall)** | The private, local LLM server the other apps talk to. | Release next |
-| <img src="https://dev.decryptology.net/decryp7/paddock/raw/branch/main/icons/dyno/dyno-macos.svg" width="36"> | **[Dyno](https://dev.decryptology.net/decryp7/dyno)** | Measures, explains and tunes your PC, with undo for every change. | In development |
-| <img src="https://dev.decryptology.net/decryp7/paddock/raw/branch/main/icons/spotter/spotter-macos.svg" width="36"> | **[Spotter](https://dev.decryptology.net/decryp7/spotter)** | Watches for new releases anywhere, from file shares to web pages. | In development |
-| <img src="https://dev.decryptology.net/decryp7/paddock/raw/branch/main/icons/sighter/sighter-macos.svg" width="36"> | **[Sighter](https://dev.decryptology.net/decryp7/sighter)** | Vision-based UI automation for apps with or without accessibility. | In design |
-| <img src="https://dev.decryptology.net/decryp7/paddock/raw/branch/main/icons/pacenotes/pacenotes-macos.svg" width="36"> | **[Pacenotes](https://dev.decryptology.net/decryp7/pacenotes)** | Understands your code: navigate, review, diagram and trace it, and serve it to local AI. | In design |
+| <img src="images/debrief.png" width="36"> | **[Debrief](https://dev.decryptology.net/decryp7/debrief)** | An IDE for analysing logs and diagnostic files: timelines, queries, anomalies, incident reports. | Release in progress |
+| <img src="images/pitcrew.png" width="36"> | **[Pitcrew](https://dev.decryptology.net/decryp7/pitcrew)** | Keeps self-hosted CI runners alive, updated and clean. | **v1.0 released** |
+| <img src="images/pitwall.png" width="36"> | **[Pitwall](https://dev.decryptology.net/decryp7/pitwall)** | The private, local LLM server the other apps talk to. | Release next |
+| <img src="images/dyno.png" width="36"> | **[Dyno](https://dev.decryptology.net/decryp7/dyno)** | Measures, explains and tunes your PC, with undo for every change. | In development |
+| <img src="images/spotter.png" width="36"> | **[Spotter](https://dev.decryptology.net/decryp7/spotter)** | Watches for new releases anywhere, from file shares to web pages. | In development |
+| <img src="images/sighter.png" width="36"> | **[Sighter](https://dev.decryptology.net/decryp7/sighter)** | Vision-based UI automation for apps with or without accessibility. | In design |
+| <img src="images/pacenotes.png" width="36"> | **[Pacenotes](https://dev.decryptology.net/decryp7/pacenotes)** | Understands your code: navigate, review, diagram and trace it, and serve it to local AI. | In design |
 
 **[Meet the family →](https://dev.decryptology.net/decryp7/paddock/src/branch/main/docs/ecosystem.md)** how the apps
 work together, the principles behind them and the roadmap.
