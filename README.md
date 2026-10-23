@@ -41,7 +41,7 @@ they share one design system, one release practice and an optional private AI hu
 | <img src="https://dev.decryptology.net/decryp7/paddock/raw/branch/main/icons/dyno/dyno-macos.svg" width="36"> | **[Dyno](https://dev.decryptology.net/decryp7/dyno)** | Measures, explains and tunes your PC, with undo for every change. | In development |
 | <img src="https://dev.decryptology.net/decryp7/paddock/raw/branch/main/icons/spotter/spotter-macos.svg" width="36"> | **[Spotter](https://dev.decryptology.net/decryp7/spotter)** | Watches for new releases anywhere, from file shares to web pages. | In development |
 | <img src="https://dev.decryptology.net/decryp7/paddock/raw/branch/main/icons/sighter/sighter-macos.svg" width="36"> | **[Sighter](https://dev.decryptology.net/decryp7/sighter)** | Vision-based UI automation for apps with or without accessibility. | In design |
-| | **[Pacenotes](https://dev.decryptology.net/decryp7/pacenotes)** | Understands your code: navigate, review, diagram and trace it, and serve it to local AI. | In design |
+| <img src="https://dev.decryptology.net/decryp7/paddock/raw/branch/main/icons/pacenotes/pacenotes-macos.svg" width="36"> | **[Pacenotes](https://dev.decryptology.net/decryp7/pacenotes)** | Understands your code: navigate, review, diagram and trace it, and serve it to local AI. | In design |
 
 **[Meet the family →](https://dev.decryptology.net/decryp7/paddock/src/branch/main/docs/ecosystem.md)** how the apps
 work together, the principles behind them and the roadmap.
