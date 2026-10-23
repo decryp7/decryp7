@@ -1,9 +1,68 @@
-<h1 align="center">Hi 👋, I'm Kok Yong</h1>
-<h3 align="center">Generalist | Software Engineer | Architect | Designer</h3>
+<div align="center">
 
-- 🌱 I’m currently learning **Rust, Go, Typescript**.
-- 💻 I manage and self-host my own servers. **[[Server Status](https://grafana.decryptology.net/public-dashboards/b1088744edcf436ea1fe91d3dafd1b01)] [[Analytics](https://grafana.decryptology.net/public-dashboards/d5ad4aa549e140ad96bafcf6329cdec2)]**
-- 📃 You can find my curriculum vitae **[here](https://decryptology.net/cv.html)**.
-- 👨‍💻 All of my projects are available at **[here](https://dev.decryptology.net/decryp7?tab=stars)**.
-- 📫 How to reach me. **[decrypt at decryptology.net]**
-- 💻 Connect with me. **[[LinkedIn](https://linkedin.com/in/decryp7/)]**
+# Kok Yong
+
+**Software architect and engineering lead · builder of local-first tools**
+
+Singapore · twenty years of building software that keeps industrial systems running
+
+[Paddock](https://dev.decryptology.net/decryp7/paddock) · [CV](https://decryptology.net/cv.html) · [LinkedIn](https://linkedin.com/in/decryp7/) · [Projects](https://dev.decryptology.net/decryp7?tab=stars)
+
+</div>
+
+---
+
+## What I do
+
+By day I lead an engineering group that develops and maintains **distributed control system software** used to run
+industrial plants: architecture, requirements and design governance, secure development practice, and teams spread
+across several countries. The work rewards software that is fast, dependable and honest about what it is doing, and
+that is the standard I bring to everything below.
+
+By night I build **Paddock**, and self-host the infrastructure it runs on.
+
+## 🏁 Paddock
+
+**A family of local-first desktop tools for people who keep systems running.** Rust engines and Angular interfaces in
+Tauri, native on Windows, macOS and Linux. No cloud, no telemetry, no accounts. Each app is useful on its own; together
+they share one design system, one release practice and an optional private AI hub that runs on your own machine.
+
+<p align="center">
+  <a href="https://dev.decryptology.net/decryp7/paddock">
+    <img src="https://dev.decryptology.net/decryp7/paddock/raw/branch/main/docs/images/paddock-ecosystem.svg" alt="The Paddock family: Pacenotes, Debrief and Sighter above the Pitwall AI hub; Pitcrew, Dyno and Spotter below; all on one shared foundation" width="900">
+  </a>
+</p>
+
+| | App | For | Status |
+|:-:|---|---|---|
+| <img src="https://dev.decryptology.net/decryp7/paddock/raw/branch/main/icons/debrief/debrief-macos.svg" width="36"> | **[Debrief](https://dev.decryptology.net/decryp7/debrief)** | An IDE for analysing logs and diagnostic files: timelines, queries, anomalies, incident reports. | Release in progress |
+| <img src="https://dev.decryptology.net/decryp7/paddock/raw/branch/main/icons/pitcrew/pitcrew-macos.svg" width="36"> | **[Pitcrew](https://dev.decryptology.net/decryp7/pitcrew)** | Keeps self-hosted CI runners alive, updated and clean. | **v1.0 released** |
+| <img src="https://dev.decryptology.net/decryp7/paddock/raw/branch/main/icons/pitwall/pitwall-macos.svg" width="36"> | **[Pitwall](https://dev.decryptology.net/decryp7/pitwall)** | The private, local LLM server the other apps talk to. | Release next |
+| <img src="https://dev.decryptology.net/decryp7/paddock/raw/branch/main/icons/dyno/dyno-macos.svg" width="36"> | **[Dyno](https://dev.decryptology.net/decryp7/dyno)** | Measures, explains and tunes your PC, with undo for every change. | In development |
+| <img src="https://dev.decryptology.net/decryp7/paddock/raw/branch/main/icons/spotter/spotter-macos.svg" width="36"> | **[Spotter](https://dev.decryptology.net/decryp7/spotter)** | Watches for new releases anywhere, from file shares to web pages. | In development |
+| <img src="https://dev.decryptology.net/decryp7/paddock/raw/branch/main/icons/sighter/sighter-macos.svg" width="36"> | **[Sighter](https://dev.decryptology.net/decryp7/sighter)** | Vision-based UI automation for apps with or without accessibility. | In design |
+| | **[Pacenotes](https://dev.decryptology.net/decryp7/pacenotes)** | Understands your code: navigate, review, diagram and trace it, and serve it to local AI. | In design |
+
+**[Meet the family →](https://dev.decryptology.net/decryp7/paddock/src/branch/main/docs/ecosystem.md)** how the apps
+work together, the principles behind them and the roadmap.
+
+## How I build
+
+- **Local first.** Your data stays on your machine. Anything that leaves it is something you asked for.
+- **Degrade, don't fail.** Missing tools, locked files and absent AI produce a clear message and a next step.
+- **Architecture as a habit.** Ports and adapters, decision records, diagrams that match the code.
+- **Tested and measured.** High coverage, robustness tests that trigger the failure, and numbers taken on a quiet machine.
+
+## Self-hosted
+
+Everything here runs on servers I manage myself, including this Gitea, its CI runners and the monitoring:
+[server status](https://grafana.decryptology.net/public-dashboards/b1088744edcf436ea1fe91d3dafd1b01) ·
+[analytics](https://grafana.decryptology.net/public-dashboards/d5ad4aa549e140ad96bafcf6329cdec2).
+
+## Toolbox
+
+Rust · TypeScript · Angular · C# and .NET · Go (learning) · Tauri · DuckDB · SQLite · Docker · Gitea Actions
+
+## Get in touch
+
+**decrypt at decryptology.net** · [LinkedIn](https://linkedin.com/in/decryp7/) · [CV](https://decryptology.net/cv.html)
