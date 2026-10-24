@@ -25,26 +25,26 @@ By night I build **Paddock**, and self-host the infrastructure it runs on.
 
 **A family of local-first desktop tools for people who keep systems running.** Rust engines and Angular interfaces in
 Tauri, native on Windows, macOS and Linux. No cloud, no telemetry, no accounts. Each app is useful on its own; together
-they share one design system, one release practice and an optional private AI hub that runs on your own machine.
+they share one design system, one app shell (plus a workbench for the IDE-style apps), one release practice and an optional private AI hub that runs on your own machine.
 
 <p align="center">
   <a href="https://dev.decryptology.net/decryp7/paddock">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="images/paddock-ecosystem-dark.png?v=a00f2d40">
-      <img src="images/paddock-ecosystem-light.png?v=651219f0" alt="The Paddock family: Pacenotes, Debrief and Sighter above the Pitwall AI hub; Pitcrew, Dyno and Spotter below; all on one shared foundation" width="900">
+      <source media="(prefers-color-scheme: dark)" srcset="images/paddock-ecosystem-dark.png?v=71b4fe88">
+      <img src="images/paddock-ecosystem-light.png?v=cbede3d7" alt="The Paddock family: Pacenotes, Debrief and Sighter above the Pitwall AI hub; Pitcrew, Dyno and Spotter below; all on one shared foundation: an app shell for every app and a workbench for the IDE-style apps" width="900">
     </picture>
   </a>
 </p>
 
 | | App | For | Status |
 |:-:|---|---|---|
-| <img src="images/debrief.png?v=7e9b20ca" width="36"> | **[Debrief](https://dev.decryptology.net/decryp7/debrief)** | An IDE for analysing logs and diagnostic files: timelines, queries, anomalies, incident reports. | **v1.0.0 released** |
+| <img src="images/debrief.png?v=7e9b20ca" width="36"> | **[Debrief](https://dev.decryptology.net/decryp7/debrief)** | An IDE for analysing logs and diagnostic files: timelines, queries, anomalies, incident reports. | **v1.0.1 released** (1.1 coming) |
 | <img src="images/pitcrew.png?v=931ab6ae" width="36"> | **[Pitcrew](https://dev.decryptology.net/decryp7/pitcrew)** | Keeps self-hosted CI runners alive, updated and clean. | **v1.0.1 released** |
-| <img src="images/pitwall.png?v=91f91635" width="36"> | **[Pitwall](https://dev.decryptology.net/decryp7/pitwall)** | The private, local LLM server (llama.cpp) the other apps can talk to; optional for every app. | **v1.0.2 released** |
+| <img src="images/pitwall.png?v=91f91635" width="36"> | **[Pitwall](https://dev.decryptology.net/decryp7/pitwall)** | The private, local LLM server (llama.cpp) the other apps can talk to; optional for every app. | **v1.0.3 released** (next after Debrief) |
 | <img src="images/dyno.png?v=570ffe4d" width="36"> | **[Dyno](https://dev.decryptology.net/decryp7/dyno)** | Measures, explains and tunes your PC, with undo for every change. | In development |
 | <img src="images/spotter.png?v=f1c9ff22" width="36"> | **[Spotter](https://dev.decryptology.net/decryp7/spotter)** | Watches for new releases anywhere, from file shares to web pages. | Releasing soon |
-| <img src="images/sighter.png?v=1f6b69f8" width="36"> | **[Sighter](https://dev.decryptology.net/decryp7/sighter)** | Vision-based UI automation for apps with or without accessibility, and an MCP server and agent that drives any desktop (local or over RDP). | In design |
-| <img src="images/pacenotes.png?v=caa9dcea" width="36"> | **[Pacenotes](https://dev.decryptology.net/decryp7/pacenotes)** | Understands code in any language: a dependency graph of every link, code review with your own rules, local semantic search, and an MCP server. | In design |
+| <img src="images/sighter.png?v=1f6b69f8" width="36"> | **[Sighter](https://dev.decryptology.net/decryp7/sighter)** | Vision-based UI automation for apps with or without accessibility, and an MCP server and agent that drives any desktop (local or over RDP). | In design (after Pitwall) |
+| <img src="images/pacenotes.png?v=caa9dcea" width="36"> | **[Pacenotes](https://dev.decryptology.net/decryp7/pacenotes)** | Understands code in any language: a dependency graph of every link, code review with your own rules, local semantic search, and an MCP server. | In design (after Pitwall) |
 
 **[Meet the family →](https://dev.decryptology.net/decryp7/paddock/src/branch/main/docs/ecosystem.md)** how the apps
 work together, the principles behind them and the roadmap.
