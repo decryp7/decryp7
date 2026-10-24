@@ -30,8 +30,8 @@ they share one design system, one app shell (plus a workbench for the IDE-style 
 <p align="center">
   <a href="https://dev.decryptology.net/decryp7/paddock">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="images/paddock-ecosystem-dark.png?v=cf325e49">
-      <img src="images/paddock-ecosystem-light.png?v=5f88594b" alt="The Paddock family: Pacenotes, Debrief and Sighter above the Pitwall AI hub; Pitcrew, Dyno and Spotter below; all on one shared foundation: an app shell for every app and a workbench for the IDE-style apps" width="900">
+      <source media="(prefers-color-scheme: dark)" srcset="images/paddock-ecosystem-dark.png?v=33f08b5b">
+      <img src="images/paddock-ecosystem-light.png?v=4c829cba" alt="The Paddock family: Pacenotes, Debrief and Sighter above the Pitwall AI hub; Pitcrew, Dyno and Spotter below; all on one shared foundation: an app shell for every app and a workbench for the IDE-style apps" width="900">
     </picture>
   </a>
 </p>
