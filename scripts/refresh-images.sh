@@ -9,7 +9,7 @@ for t in light dark; do
   cp "$paddock/docs/images/paddock-ecosystem-$t.png" "$here/images/paddock-ecosystem-$t.png"
   sips -Z 1800 "$here/images/paddock-ecosystem-$t.png" >/dev/null
 done
-for a in debrief pitcrew pitwall dyno spotter sighter pacenotes; do
+for a in paddock debrief pitcrew pitwall dyno spotter sighter pacenotes; do
   cp "$paddock/icons/$a/$a-macos-1024.png" "$here/images/$a.png"
   sips -z 96 96 "$here/images/$a.png" >/dev/null
 done
