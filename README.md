@@ -36,7 +36,7 @@ they share one design system, one app shell (plus a workbench for the IDE-style 
   </a>
 </p>
 
-| App | For | Status |
+| App| App | For | Status |nbsp;| App | For | Status |nbsp;| App | For | Status |nbsp;| App | For | Status |nbsp;| App | For | Status |nbsp;| App | For | Status |nbsp;| App | For | Status |nbsp;| App | For | Status |nbsp;| App | For | Status |nbsp;| App | For | Status |nbsp;| App | For | Status |nbsp;| App | For | Status |nbsp;| App | For | Status |nbsp;| App | For | Status |nbsp;| App | For | Status |nbsp;| App | For | Status |nbsp;| App | For | Status |nbsp;| App | For | Status |nbsp;| App | For | Status |nbsp;| App | For | Status |nbsp;| App | For | Status |nbsp;| App | For | Status |nbsp;| App | For | Status |nbsp;| App | For | Status |nbsp;| App | For | Status |nbsp;| App | For | Status |nbsp;| App | For | Status |nbsp;| App | For | Status |nbsp; | For | Status |
 |---|---|---|
 | <img src="images/debrief.png?v=e04082c8" width="36" height="36" align="absmiddle" alt=""> **[Debrief](https://dev.decryptology.net/decryp7/paddock/src/branch/main/apps/debrief)** | An IDE for analysing logs and diagnostic files: timelines, queries, anomalies, incident reports. | **v1.1.1 released, 1.2.0 in progress** |
 | <img src="images/pitcrew.png?v=95cd0718" width="36" height="36" align="absmiddle" alt=""> **[Pitcrew](https://dev.decryptology.net/decryp7/paddock/src/branch/main/apps/pitcrew)** | Keeps self-hosted CI runners alive, updated and clean. | **v1.0.1 released** |
