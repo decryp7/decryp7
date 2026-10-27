@@ -30,18 +30,18 @@ they share one design system, one app shell (plus a workbench for the IDE-style 
 <p align="center">
   <a href="https://dev.decryptology.net/decryp7/paddock">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="images/paddock-ecosystem-dark.png?v=5d1dffbe">
-      <img src="images/paddock-ecosystem-light.png?v=5c9768ad" alt="The Paddock family: Pacenotes, Debrief and Sighter above the Pitwall AI hub; Pitcrew, Dyno and Spotter below; all on one shared foundation: an app shell for every app and a workbench for the IDE-style apps" width="900">
+      <source media="(prefers-color-scheme: dark)" srcset="images/paddock-ecosystem-dark.png?v=66e8e294">
+      <img src="images/paddock-ecosystem-light.png?v=8c72d6b4" alt="The Paddock family: Pacenotes, Debrief and Sighter above the Pitwall AI hub; Pitcrew, Dyno and Spotter below; all on one shared foundation: an app shell for every app and a workbench for the IDE-style apps" width="900">
     </picture>
   </a>
 </p>
 
-| App| App | For | Status |nbsp;| App | For | Status |nbsp;| App | For | Status |nbsp;| App | For | Status |nbsp;| App | For | Status |nbsp;| App | For | Status |nbsp;| App | For | Status |nbsp;| App | For | Status |nbsp;| App | For | Status |nbsp;| App | For | Status |nbsp;| App | For | Status |nbsp;| App | For | Status |nbsp;| App | For | Status |nbsp;| App | For | Status |nbsp;| App | For | Status |nbsp;| App | For | Status |nbsp;| App | For | Status |nbsp;| App | For | Status |nbsp;| App | For | Status |nbsp;| App | For | Status |nbsp;| App | For | Status |nbsp;| App | For | Status |nbsp;| App | For | Status |nbsp;| App | For | Status |nbsp;| App | For | Status |nbsp;| App | For | Status |nbsp;| App | For | Status |nbsp;| App | For | Status |nbsp; | For | Status |
+| App&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | For | Status |
 |---|---|---|
 | <img src="images/debrief.png?v=e04082c8" width="36" height="36" align="absmiddle" alt=""> **[Debrief](https://dev.decryptology.net/decryp7/paddock/src/branch/main/apps/debrief)** | An IDE for analysing logs and diagnostic files: timelines, queries, anomalies, incident reports. | **v1.1.1 released, 1.2.0 in progress** |
 | <img src="images/pitcrew.png?v=95cd0718" width="36" height="36" align="absmiddle" alt=""> **[Pitcrew](https://dev.decryptology.net/decryp7/paddock/src/branch/main/apps/pitcrew)** | Keeps self-hosted CI runners alive, updated and clean. | **v1.0.1 released** |
 | <img src="images/pitwall.png?v=5e42e074" width="36" height="36" align="absmiddle" alt=""> **[Pitwall](https://dev.decryptology.net/decryp7/paddock/src/branch/main/apps/pitwall)** | The private, local LLM server (llama.cpp) the other apps can talk to; optional for every app. | **v1.0.3 released** |
-| <img src="images/dyno.png?v=0257c0f0" width="36" height="36" align="absmiddle" alt=""> **[Dyno](https://dev.decryptology.net/decryp7/paddock/src/branch/main/apps/dyno)** | Measures, explains and tunes your PC, with undo for every change. | In development |
+| <img src="images/dyno.png?v=0257c0f0" width="36" height="36" align="absmiddle" alt=""> **[Dyno](https://dev.decryptology.net/decryp7/paddock/src/branch/main/apps/dyno)** | Watches your PC, read-only: live and history, alarms, a disk map and benchmarks. | In development |
 | <img src="images/spotter.png?v=6cc05a14" width="36" height="36" align="absmiddle" alt=""> **[Spotter](https://dev.decryptology.net/decryp7/paddock/src/branch/main/apps/spotter)** | Watches for new releases anywhere, from file shares to web pages. | In development |
 | <img src="images/sighter.png?v=08ec35c9" width="36" height="36" align="absmiddle" alt=""> **[Sighter](https://dev.decryptology.net/decryp7/paddock/src/branch/main/apps/sighter)** | Vision-based UI automation for apps with or without accessibility, and an MCP server and agent that drives any desktop (local or over RDP). | Planned |
 | <img src="images/pacenotes.png?v=f43016c5" width="36" height="36" align="absmiddle" alt=""> **[Pacenotes](https://dev.decryptology.net/decryp7/paddock/src/branch/main/apps/pacenotes)** | Understands code in any language: a dependency graph of every link, code review with your own rules, local semantic search, and an MCP server. | Planned |
